@@ -39,7 +39,7 @@ solutions, and evaluate the effectiveness of different interventions. Through
 these partnerships, we strive to ensure that our work is responsive,
 inclusive, and relevant to the diverse populations we serve.
 
-## Code
+## Netrics Software
 
 One of the aims of the project is to make it easy for stakeholders to gather
 samples of Internet connectivity across a geographic area (e.g., a city,
@@ -57,7 +57,7 @@ run on any endpoint. Netrics contains a number of built-in tests, including:
    * Ping latency
    * Latency under load / operational latency / "responsiveness"
 
-### Repositories
+### Code Repositories
 
 The software is designed to be extensible, making it easy for others to add
 new tests. The main repositories are:
