@@ -1,5 +1,5 @@
 # [Internet Equity Initiative](https://internetequity.uchicago.edu) 
-([Github](https://github.com/internet-equity/)
+([Github])(https://github.com/internet-equity/)
 
 ## About
 
@@ -76,21 +76,10 @@ data from our deployments quarterly:
 ## People
 
 The initiative is led by Professors [Nick
-Feamster](https://people.cs.uchicago.edu/~feamster/) and Nicole Marwell at the
+Feamster](https://people.cs.uchicago.edu/~feamster/) and [Nicole
+Marwell](https://crownschool.uchicago.edu/directory/nicole-p-marwell) at the
 University of Chicago. Alexis Schrubbe is the executive director. The full
 team is listed [here](https://internetequity.uchicago.edu/about/team).
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
-alt="Creative Commons License" style="border-width:0"
-src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span
-xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Netrics Data</span>
-by <a xmlns:cc="http://creativecommons.org/ns#"
-href="https://internetequity.uchicago.edu/" property="cc:attributionName"
-rel="cc:attributionURL">Internet Equity Initiative</a> is licensed under a <a
-rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Citation
 
@@ -114,3 +103,20 @@ code, and the Internet Equity Initiative website:
 
 We gratefully acknowledge support from the National Science Foundation (NSF)
 and data.org.
+
+## License
+
+All code is released under an Apache 2.0 License. Data is released under
+Creative Commons Attribution 4.0 International (CC BY-SA 4.0) license, as below.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span
+xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Netrics Data</span>
+by <a xmlns:cc="http://creativecommons.org/ns#"
+href="https://internetequity.uchicago.edu/" property="cc:attributionName"
+rel="cc:attributionURL">Internet Equity Initiative</a> is licensed under a <a
+rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
