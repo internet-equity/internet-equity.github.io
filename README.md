@@ -1,5 +1,5 @@
 # [Internet Equity Initiative](https://internetequity.uchicago.edu) 
-([Github])(https://github.com/internet-equity/)
+([Github](https://github.com/internet-equity/))
 
 ## About
 
