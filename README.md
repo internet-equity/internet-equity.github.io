@@ -5,7 +5,7 @@
 
 The [Internet Equity Initiative](https://internetequity.uchicago.edu) at the
 University of Chicago aims to realize equitable, resilient, and sustainable
-Internet solutions that benefit all communities As society increasingly relies
+Internet solutions that benefit all communities. As society increasingly relies
 on the Internet for work, education, health care, recreation, and many other
 aspects of daily life, the prevalent and persistent inequity in people’s
 ability to access, adopt, and use the Internet is more evident than ever.
@@ -39,38 +39,63 @@ solutions, and evaluate the effectiveness of different interventions. Through
 these partnerships, we strive to ensure that our work is responsive,
 inclusive, and relevant to the diverse populations we serve.
 
-## Netrics Software
+## Netrics Software and Data
 
 One of the aims of the project is to make it easy for stakeholders to gather
 samples of Internet connectivity across a geographic area (e.g., a city,
-region, state). 
+region, state) using our approach of device-based measurement. Our GitHub 
+organization contains several open-source libraries and datasets that are 
+available for public use.
 
 ### About the Code 
 
 This [organization](https://github.com/internet-equity/) maintains code for
 the **Netrics** system, which is a set of tools for collecting and analyzing
-Internet connectivity using deployed vantage points. We have developed the
-software to run on single-board computers, such as a Raspberry Pi, but it can
-run on any endpoint. Netrics contains a number of built-in tests, including:
+Internet connectivity using deployed vantage points. We have developed the 
+system to run on single-board computers, such as a Raspberry Pi, but it
+can run on any endpoint. It consists of three major components.
+
+#### Measurement Software
+The Netrics measurement software bundles multiple popular network diagnostic tools into one tool and enables users to run measurements continuously based on a user-defined schedule. The measurement software will run the network test, parse the results, and save the data in a file to be uploaded elsewhere. Data files are tagged with additional metadata, including the time of the measurement, the device ID on which the measurement ran, and other contextual information. The measurement framework comes pre-packaged with a number of built-in tests, including:
    * Three different Internet speed tests (Ookla, NDT, iperf)
    * DNS lookup latency
    * Ping latency
    * Latency under load / operational latency / "responsiveness"
+In addition to the built-in measurements, we have also designed the framework to incorporate new measurements that are not already included in the software. With this extensibility, we encourage other researchers and developers to help us improve and iterate on the best methods to measure the internet.
 
-### Code Repositories
+We currently have two measurement libraries available. The first is a version that we have deployed on over 150 devices distributed around Chicago. The second is a redesigned version (still in beta) that we have created to simplify the usability of the software and make it easier for collaborators to contribute to the library's development. You can find links to both repositories below. Both libraries essentially do the same thing (run network measurements and generate data), but we hope our redesign will be easier to use and we will be deprecating the original library in the near future.
 
-The software is designed to be extensible, making it easy for others to add
-new tests. The main repositories are:
-   * [Client](https://github.com/internet-equity/nm-exp-active-netrics)
-   * [Scheduler](https://github.com/internet-equity/netrics)
-   * [Dashboard](https://github.com/internet-equity/netrics-dash)
-   * Backend (private for security reasons; available on request)
+**nm-exp-active-netrics**: https://github.com/internet-equity/nm-exp-active-netrics
+**Netrics (beta)**: https://github.com/internet-equity/netrics
 
+#### Netrics Performance Dashboard
+
+The Netrics performance dashboard is separate software application that is designed to operate in tandem with the Netrics measurement software (either version). The dashboard displays internet performance measurements on a user's web browser, including upload and download bandwidth, latecy, number of connected devices, and WiFi performance. The dashboard shows data collected only from one device and is only accessible by the user hosting the device on their network. When a user installs the Netrics dashboard web extension, they will also be able to run continuous measurements of their WiFi download speed, which enables identifying connectivity bottlenecks by comparing WiFi speeds to fixed access speeds. Read the documentation in the code repository to learn more.
+
+**netrics-dash**: https://github.com/internet-equity/netrics-dash
+
+#### Netrics Backend
+
+The Netrics measurement libray and dashboard application are designed to run as standalone software that anyone can install on their computer and/or IoT device. In addition to the measurement and dashboard libarires, the IEI team has also developed code for transferring data from local devices to a central storage area and for managing a fleet of devices that are running the measurement software. These components are critical for operating a large network of Netrics-installed devices and collecting the data from those devices for research and other applications. Both repositories of code are not public due to the senstive nature of the code, but the libraries are available upon request and we have shared the code with other institutions that express interest. Furthermore, users of the measurement software can bring their own backend to orchestrate distributed device-based measurement and avoid using our backend libraries entirely.
+
+##### Data Pipeline
+
+We use a custom software application to transfer data from a device running the Netrics measurement software to our AWS S3 storage. The collect application periodically checks the directory where we save data files generated by Netrics measurements and uploads pending files to S3 using a secure transfer protocol.
+
+The data stored on AWS is then further processed and written to an InfluxDB to make it easier to query and visualize with a front-end Grafana dashboard. We are currently working on porting our data to TimescaleDB as well to enable SQL queries on the data and to connect the data to other useful analytical and visualization platforms.
+
+All code is available to others upon request.
+
+##### Fleet Management System
+
+To manage the fleet of devices that we deploy with Netrics software, we use the configuration management system, Salt Stack, to deploy new software updates on devices, track device state and connectivity, and keep tabs on device operations once in the field. We are currently exploring migrating to a new fleet management system called OpenBalena.
+
+All code is available to other upon request.
 
 ## Data
 
 The initiative collects data from a variety of sources. We currently release
-data from our deployments quarterly:
+data from our Netrics deployments quarterly:
    * [Deployment Data](https://github.com/internet-equity/netrics-data)
 
 ## People
