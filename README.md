@@ -39,7 +39,7 @@ solutions, and evaluate the effectiveness of different interventions. Through
 these partnerships, we strive to ensure that our work is responsive,
 inclusive, and relevant to the diverse populations we serve.
 
-## Netrics Software and Data
+## Netrics Software
 
 One of the aims of the project is to make it easy for stakeholders to gather
 samples of Internet connectivity across a geographic area (e.g., a city,
@@ -93,7 +93,7 @@ To manage the fleet of devices that we deploy with Netrics software, we use the 
 
 All code is available to other upon request.
 
-## Data
+## Netrics Data
 
 The initiative collects data from a variety of sources. We currently release
 data from our Netrics deployments quarterly:
