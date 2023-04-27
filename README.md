@@ -66,6 +66,7 @@ In addition to the built-in measurements, we have also designed the framework to
 We currently have two measurement libraries available. The first is a version that we have deployed on over 150 devices distributed around Chicago. The second is a redesigned version (still in beta) that we have created to simplify the usability of the software and make it easier for collaborators to contribute to the library's development. You can find links to both repositories below. Both libraries essentially do the same thing (run network measurements and generate data), but we hope our redesign will be easier to use and we will be deprecating the original library in the near future.
 
 **nm-exp-active-netrics**: https://github.com/internet-equity/nm-exp-active-netrics
+
 **Netrics (beta)**: https://github.com/internet-equity/netrics
 
 #### Netrics Performance Dashboard
