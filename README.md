@@ -65,15 +65,16 @@ In addition to the built-in measurements, we have also designed the framework to
 
 We currently have two measurement libraries available. The first is a version that we have deployed on over 150 devices distributed around Chicago. The second is a redesigned version (still in beta) that we have created to simplify the usability of the software and make it easier for collaborators to contribute to the library's development. You can find links to both repositories below. Both libraries essentially do the same thing (run network measurements and generate data), but we hope our redesign will be easier to use and we will be deprecating the original library in the near future.
 
-**nm-exp-active-netrics**: https://github.com/internet-equity/nm-exp-active-netrics
-
-**Netrics (beta)**: https://github.com/internet-equity/netrics
+**Repositories**:
+- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)**
+- **[Netrics (beta)](https://github.com/internet-equity/netrics)**
 
 #### Netrics Performance Dashboard
 
 The Netrics performance dashboard is separate software application that is designed to operate in tandem with the Netrics measurement software (either version). The dashboard displays internet performance measurements on a user's web browser, including upload and download bandwidth, latecy, number of connected devices, and WiFi performance. The dashboard shows data collected only from one device and is only accessible by the user hosting the device on their network. When a user installs the Netrics dashboard web extension, they will also be able to run continuous measurements of their WiFi download speed, which enables identifying connectivity bottlenecks by comparing WiFi speeds to fixed access speeds. Read the documentation in the code repository to learn more.
 
-**netrics-dash**: https://github.com/internet-equity/netrics-dash
+**Repositories**:
+- **[netrics-dash](https://github.com/internet-equity/netrics-dash)**
 
 #### Netrics Backend
 
@@ -85,19 +86,19 @@ We use a custom software application to transfer data from a device running the 
 
 The data stored on AWS is then further processed and written to an InfluxDB to make it easier to query and visualize with a front-end Grafana dashboard. We are currently working on porting our data to TimescaleDB as well to enable SQL queries on the data and to connect the data to other useful analytical and visualization platforms.
 
-All code is available to others upon request.
+**All code is available to others upon request.**
 
 ##### Fleet Management System
 
 To manage the fleet of devices that we deploy with Netrics software, we use the configuration management system, Salt Stack, to deploy new software updates on devices, track device state and connectivity, and keep tabs on device operations once in the field. We are currently exploring migrating to a new fleet management system called OpenBalena.
 
-All code is available to other upon request.
+**All code is available to other upon request.**
 
 ## Netrics Data
 
 The initiative collects data from a variety of sources. We currently release
 data from our Netrics deployments quarterly:
-   * [Deployment Data](https://github.com/internet-equity/netrics-data)
+   * [Household Internet Performance Data](https://github.com/internet-equity/netrics-data)
 
 ## People
 
