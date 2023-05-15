@@ -5,7 +5,7 @@
 >
 > Please visit our feedback page to learn how you can submit feedback on our software and data.
 >
-> Click [here](internetequity.org/feedback/submitting-feedback.html) to go to the feedback page.
+> Click [here](./feedback/submitting-feedback.html) to go to the feedback page.
 
 ## About
 
