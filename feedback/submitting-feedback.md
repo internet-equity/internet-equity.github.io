@@ -1,5 +1,7 @@
 # Submitting Feedback on Our Software and Data Products  
 
+[Back to home](../)
+
 We value your feedback on our software and data products. Your input helps us improve and provide better services to you.
 
 ## How to Submit Feedback
@@ -7,8 +9,8 @@ We value your feedback on our software and data products. Your input helps us im
 There are different ways to submit your feedback:
 
 1. **Email:** Send an email to [broadband-equity@lists.uchicago.edu](mailto:broadband-equity@lists.uchicago.edu) with your comments, suggestions or complaints.
-2. **Online Form:** Fill out our online feedback form below.
-3. **GitHub:** Reach out to us via GitHub repositories. You can submit feedback on Netrics datasets on our [Netrics Data repository](https://github.com/internet-equity/netrics-data/issues/new/choose) and feedback on Netrics software to our [Netrics repository](https://github.com/internet-equity/netrics/issues/new/choose).
+2. **Online Form:** Fill out our online feedback form [below](#feedback-form).
+3. **GitHub:** Reach out to us via GitHub repositories. You can submit bug reports, request new features, and give us general feedback the data and the software. For feedback on Netrics datasets, go to our [Netrics Data repository](https://github.com/internet-equity/netrics-data/issues/new/choose); for feedback on Netrics software, go to our [Netrics repository](https://github.com/internet-equity/netrics/issues/new/choose).
 
 ## What Kind of Feedback Should You Submit?
 
