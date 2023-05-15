@@ -28,6 +28,6 @@ Thank you for taking the time to share your thoughts with us!
 
 ## Feedback Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxotGh45F5vktQq4PSkf4eS10Mm4ybC3L3--oom9dzWUZwVQ/viewform?embedded=true" width="640" height="1341" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxotGh45F5vktQq4PSkf4eS10Mm4ybC3L3--oom9dzWUZwVQ/viewform?embedded=true" width="800" height="1341" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-[Back to home](internetequity.org).
+[Back to home](../)
