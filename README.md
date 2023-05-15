@@ -1,6 +1,12 @@
 # [Internet Equity Initiative](https://internetequity.uchicago.edu) 
 ([Github](https://github.com/internet-equity/))
 
+> ### 📥 Submitting Feedback on Netrics
+>
+> Please visit our feedback page to learn how you can submit feedback on our software and data.
+>
+> Click [here](internetequity.org/feedback/submitting-feedback.html) to go to the feedback page.
+
 ## About
 
 The [Internet Equity Initiative](https://internetequity.uchicago.edu) at the
