@@ -72,6 +72,9 @@ can run on any endpoint. It consists of three major components.
 
 
 #### Measurement Software
+
+> Try out our Netrics demo with Docker by following our guide [here](https://github.com/internet-equity/netrics-docker#quick-start).
+
 **Repositories**:
 - **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)**
 - **[Netrics (beta)](https://github.com/internet-equity/netrics)**
