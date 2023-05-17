@@ -7,6 +7,10 @@
 >
 > Click [here](./feedback/submitting-feedback.html) to go to the feedback page.
 
+> ## 💎 Netrics Beta Release
+>
+> The Internet Equity Initiative is seeking volunteers to test and review our software and data tools. If you are interested in collaborating with us to make our tools better, please fill our online [interest form](https://docs.google.com/forms/d/e/1FAIpQLSfH3GQpagadoXyZ3040Pty8BpTr4-OKA-XHNKihlCQ62U1lkQ/viewform?usp=sf_link). Explore our Docker demo of Netrics with this repository [here](https://github.com/internet-equity/netrics-docker/tree/main).
+
 ## About
 
 The [Internet Equity Initiative](https://internetequity.uchicago.edu) at the
@@ -45,6 +49,11 @@ solutions, and evaluate the effectiveness of different interventions. Through
 these partnerships, we strive to ensure that our work is responsive,
 inclusive, and relevant to the diverse populations we serve.
 
+## Netrics Data
+
+The initiative collects data from a variety of sources. We currently release data from our Netrics deployments quarterly:
+   * [Household Internet Performance Data](https://github.com/internet-equity/netrics-data)
+
 ## Netrics Software
 
 One of the aims of the project is to make it easy for stakeholders to gather
@@ -61,8 +70,15 @@ Internet connectivity using deployed vantage points. We have developed the
 system to run on single-board computers, such as a Raspberry Pi, but it
 can run on any endpoint. It consists of three major components.
 
+
 #### Measurement Software
+**Repositories**:
+- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)**
+- **[Netrics (beta)](https://github.com/internet-equity/netrics)**
+- **[Netrics Docker](https://github.com/internet-equity/netrics-docker)**
+
 The Netrics measurement software bundles multiple popular network diagnostic tools into one tool and enables users to run measurements continuously based on a user-defined schedule. The measurement software will run the network test, parse the results, and save the data in a file to be uploaded elsewhere. Data files are tagged with additional metadata, including the time of the measurement, the device ID on which the measurement ran, and other contextual information. The measurement framework comes pre-packaged with a number of built-in tests, including:
+
    * Three different Internet speed tests (Ookla, NDT, iperf)
    * DNS lookup latency
    * Ping latency
@@ -71,16 +87,12 @@ In addition to the built-in measurements, we have also designed the framework to
 
 We currently have two measurement libraries available. The first is a version that we have deployed on over 150 devices distributed around Chicago. The second is a redesigned version (still in beta) that we have created to simplify the usability of the software and make it easier for collaborators to contribute to the library's development. You can find links to both repositories below. Both libraries essentially do the same thing (run network measurements and generate data), but we hope our redesign will be easier to use and we will be deprecating the original library in the near future.
 
-**Repositories**:
-- **[nm-exp-active-netrics](https://github.com/internet-equity/nm-exp-active-netrics)**
-- **[Netrics (beta)](https://github.com/internet-equity/netrics)**
-
 #### Netrics Performance Dashboard
-
-The Netrics performance dashboard is separate software application that is designed to operate in tandem with the Netrics measurement software (either version). The dashboard displays internet performance measurements on a user's web browser, including upload and download bandwidth, latecy, number of connected devices, and WiFi performance. The dashboard shows data collected only from one device and is only accessible by the user hosting the device on their network. When a user installs the Netrics dashboard web extension, they will also be able to run continuous measurements of their WiFi download speed, which enables identifying connectivity bottlenecks by comparing WiFi speeds to fixed access speeds. Read the documentation in the code repository to learn more.
 
 **Repositories**:
 - **[netrics-dash](https://github.com/internet-equity/netrics-dash)**
+
+The Netrics performance dashboard is separate software application that is designed to operate in tandem with the Netrics measurement software (either version). The dashboard displays internet performance measurements on a user's web browser, including upload and download bandwidth, latecy, number of connected devices, and WiFi performance. The dashboard shows data collected only from one device and is only accessible by the user hosting the device on their network. When a user installs the Netrics dashboard web extension, they will also be able to run continuous measurements of their WiFi download speed, which enables identifying connectivity bottlenecks by comparing WiFi speeds to fixed access speeds. Read the documentation in the code repository to learn more.
 
 #### Netrics Backend
 
@@ -99,12 +111,6 @@ The data stored on AWS is then further processed and written to an InfluxDB to m
 To manage the fleet of devices that we deploy with Netrics software, we use the configuration management system, Salt Stack, to deploy new software updates on devices, track device state and connectivity, and keep tabs on device operations once in the field. We are currently exploring migrating to a new fleet management system called OpenBalena.
 
 **All code is available to other upon request.**
-
-## Netrics Data
-
-The initiative collects data from a variety of sources. We currently release
-data from our Netrics deployments quarterly:
-   * [Household Internet Performance Data](https://github.com/internet-equity/netrics-data)
 
 ## People
 
