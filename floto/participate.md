@@ -1,4 +1,4 @@
-<img src="https://internetequity.uchicago.edu/wp-content/uploads/2022/04/netrics_install-e1651779294611-528x328.jpg" width="800" height="200">
+<img src="https://internetequity.uchicago.edu/wp-content/uploads/2022/04/netrics_install-e1651779294611-528x328.jpg" width="100%" height="200px">
 
 # FLOTO Device Hosting Program
 
