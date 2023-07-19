@@ -1,3 +1,5 @@
+<img src="https://internetequity.uchicago.edu/wp-content/uploads/2022/04/netrics_install-e1651779294611-528x328.jpg" width="800" height="200">
+
 # FLOTO Device Hosting Program
 
 Thank you for your interest in hosting a FLOTO device! By participating in our program, you can help us improve internet performance and connectivity in your area. Please follow the steps below to determine your eligibility and apply to receive a FLOTO device.
