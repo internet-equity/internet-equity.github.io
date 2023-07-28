@@ -34,4 +34,4 @@ Yes, you'll have access to an online dashboard that displays your Internet speed
 **10. How do I get started as a participant?**
 To get started, please fill out the online survey provided to determine your eligibility. If you are eligible, we'll reach out to you with further instructions on receiving and setting up the Raspberry Pi device.
 
-Back to [Participate Page](https://internetequity.org/floto/participate.html)
+Back to [Participate Page](https://internetequity.org/floto/participate.html) or [Home](https://internetequity.org/floto/)
