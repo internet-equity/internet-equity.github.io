@@ -1,4 +1,4 @@
-<img src="https://internetequity.uchicago.edu/wp-content/uploads/2022/04/netrics_install-e1651779294611-528x328.jpg" width="100%" height="350px">
+<img src="https://internetequity.uchicago.edu/wp-content/uploads/2022/04/netrics_install-e1651779294611-528x328.jpg" width="70%" height="350px">
 
 # FLOTO Device Hosting Program
 
@@ -6,7 +6,7 @@ Thank you for your interest in hosting a FLOTO device! By participating in our p
 
 ## Step 1: Eligibility Survey
 
-Before applying for a FLOTO device, we kindly request you to fill out a short eligibility survey. This survey will help us understand your internet connectivity and whether your location is suitable for hosting the device. Please review our [Participation Info Sheet](#) before signing up.
+Before applying for a FLOTO device, we kindly request you to fill out a short eligibility survey. This survey will help us understand your internet connectivity and whether your location is suitable for hosting the device. Please review our [Participation Info Sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) before signing up.
 
 <iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>
 
