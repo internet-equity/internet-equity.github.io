@@ -6,7 +6,9 @@
 
 # Seeking Citizen Science Volunteers to Help Measure the Internet
 
-FLOTO is a research project run by folks at the Internet Equity Initiative at the University of Chicago and at Argonne National Lab. (Read more about the project [here](https://internetequity.org/floto).) The research team is seeking citizen science volunteers to place small measurement devices in households to measure Internet performance. See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) for more details about the research and what the device does.
+FLOTO is a research project run by folks at the Internet Equity Initiative at the University of Chicago and at Argonne National Lab. (Read more about the project [here](https://internetequity.org/floto).) The research team is seeking citizen science volunteers to place small measurement devices in households to measure Internet performance. **See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) for more details about the research and what the device does.**
+
+Skip to [sign up form](#sign-up-now) below.
 
 ## What Does the Device Do?
 
