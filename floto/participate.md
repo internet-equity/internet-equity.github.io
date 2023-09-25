@@ -4,9 +4,11 @@
 
 [Home](https://internetequity.org/floto/)
 
+[Lea en español](https://internetequity.org/floto/participate-es.html)
+
 # Seeking Citizen Science Volunteers to Help Measure the Internet
 
-FLOTO is a research project run by folks at the Internet Equity Initiative at the University of Chicago and at Argonne National Lab. (Read more about the project [here](https://internetequity.org/floto).) The research team is seeking citizen science volunteers to place small measurement devices in households to measure Internet performance. **See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) for more details about the research and what the device does.**
+FLOTO is a research project run by folks at the Internet Equity Initiative at the University of Chicago and at Argonne National Lab. (Read more about the project [here](https://internetequity.org/floto).) The research team is seeking citizen science volunteers to place small measurement devices in households to measure Internet performance. **See our [information sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) and [FAQs](https://internetequity.org/floto/faqs.html) for more details about the research and what the device does.**
 
 Skip to [sign up form](#sign-up-now) below.
 
@@ -31,7 +33,7 @@ Thank you for your interest in hosting a measuring device! Please submit the for
 
 ## Sign Up Now!
 
-Before applying for a device, we kindly request you to fill out a short eligibility survey. This survey will help us understand your internet connectivity and whether your location is suitable for hosting the device. Please review our [Participation Info Sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) before signing up.
+To apply for a device, fill out our short eligibility survey. This survey will help us understand your internet connectivity and whether your location is suitable for hosting the device. Please review our [Participation Info Sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) before signing up.
 
 <iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>
 

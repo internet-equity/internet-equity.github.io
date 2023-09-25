@@ -1,12 +1,14 @@
 <img src='https://internetequity.uchicago.edu/wp-content/uploads/2022/05/iStock-1254825733.jpg' height='400px' width='100%'>
 
+[Lea en español](https://internetequity.org/floto/index-es.html)
+
 # About the FLOTO Project
 
 Welcome to the FLOTO project, an ambitious initiative aimed at advancing broadband research through large-scale, real-world data collection.
 
-The FLOTO project is a collaborative effort between the [Internet Equity Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Argonne National Lab](https://www.anl.gov/). Our mission is to deploy approximately a thousand edge devices across the city of Chicago and several university campuses. These devices, equipped with broadband diagnostic tests, serve as our eyes and ears on the ground, collecting valuable data on access network performance and development.
+The FLOTO project is a collaborative effort between the [Internet Equity Initiative (IEI)](https://internetequity.uchicago.edu/) and the [Argonne National Lab](https://www.anl.gov/). Our mission is to deploy approximately a thousand edge devices across mostly urban areas in the United States. These devices, equipped with broadband diagnostic tests, serve as our eyes and ears on the ground, collecting valuable data on access network performance and development.
 
-A key component of the FLOTO project is [Netrics](https://github.com/internet-equity/netrics), a system originally developed under the BISmark project and now part of the IEI. Netrics uses Raspberry Pi devices to measure various aspects of internet performance, such as speed, latency, and packet loss. By integrating Netrics into the FLOTO project, we're able to gather granular, real-time data on internet performance directly from users' homes.
+A key component of the FLOTO project is [Netrics](https://github.com/internet-equity/netrics), a system originally developed under the BISmark project and now part of the IEI. Netrics uses [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) devices to measure various aspects of internet performance, such as speed, latency, and packet loss. By integrating Netrics into the FLOTO project, we're able to gather granular, real-time data on internet performance directly from users' homes.
 
 The data we collect informs our understanding of internet performance and equity, helping us identify areas where the internet is slow or unreliable. This information is crucial for informing policy decisions, improving internet infrastructure, and ensuring everyone has access to fast, reliable internet.
 
