@@ -8,9 +8,9 @@
 
 # Buscando voluntarios de ciencia ciudadana para ayudar a medir Internet
 
-FLOTO es un proyecto de investigación dirigido por gente de Internet Equity Initiative de la Universidad de Chicago y del Laboratorio Nacional Argonne. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) El equipo de investigación está buscando voluntarios de ciencia ciudadana para colocar pequeños dispositivos de medición en los hogares para medir el rendimiento de Internet. **Consulte nuestra [hoja informativa](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) y [Preguntas frecuentes](https://internetequity.org/floto/faqs-es.html) para obtener más detalles sobre la investigación y qué hace el dispositivo.**
+FLOTO es un proyecto de investigación dirigido por gente de Internet Equity Initiative de la Universidad de Chicago y del Laboratorio Nacional Argonne. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto/index-es.html).) El equipo de investigación está buscando voluntarios de ciencia ciudadana para colocar pequeños dispositivos de medición en los hogares para medir el rendimiento de Internet. **Consulte nuestra [hoja informativa](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) y [Preguntas frecuentes](https://internetequity.org/floto/faqs-es.html) para obtener más detalles sobre la investigación y qué hace el dispositivo.**
 
-Vaya al [formulario de registro](#sign-up-now) a continuación.
+Vaya al [formulario de registro](#¡regístrate-ahora) a continuación.
 
 ## ¿Qué hace el dispositivo?
 
