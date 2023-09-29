@@ -8,19 +8,22 @@
 
 # Buscando voluntarios de ciencia ciudadana para ayudar a medir Internet
 
-FLOTO es un proyecto de investigación dirigido por gente de Internet Equity Initiative de la Universidad de Chicago y del Laboratorio Nacional Argonne. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto/index-es.html).) El equipo de investigación está buscando voluntarios de ciencia ciudadana para colocar pequeños dispositivos de medición en los hogares para medir el rendimiento de Internet. **Consulte nuestra [hoja informativa](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) y [Preguntas frecuentes](https://internetequity.org/floto/faqs-es.html) para obtener más detalles sobre la investigación y qué hace el dispositivo.**
+Reducir la brecha digital: un dato a la vez.
 
-Vaya al [formulario de registro](#¡regístrate-ahora) a continuación.
+La Universidad de Chicago está buscando voluntarios de ciencia ciudadana para un proyecto de investigación ("FLOTO") dirigido por Internet Equity Initiative y Argonne National Lab. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) Los participantes recibirán un pequeño dispositivo para medir su servicio de Internet junto con una tarjeta de regalo de $50. ¡Regístrese a continuación para recibir un dispositivo de medición! **Consulte nuestra [hoja informativa](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) y [Preguntas frecuentes](https://internetequity.org/floto/faqs.html) para obtener más detalles sobre la investigación y qué hace el dispositivo.**
+
+**Pase al [formulario de registro](#¡regístrate-ahora) a continuación.**
 
 ## ¿Qué hace el dispositivo?
 
-El dispositivo (en la foto de arriba) es una herramienta especializada diseñada para medir el rendimiento de Internet a nivel doméstico. Piense en ello como un monitor de salud para el servicio de Internet de su hogar. Al conectarse a su servicio existente, el dispositivo recopila datos sobre la velocidad, latencia y confiabilidad de Internet sin afectar su uso habitual. Estos datos son anónimos y no contienen ninguna información sobre su uso personal de Internet.
+El dispositivo (en la foto de arriba) es una herramienta especializada diseñada para medir el rendimiento de Internet a nivel doméstico. Piense en ello como un monitor de salud para el servicio de Internet de su hogar. Al conectarse a su servicio existente, el dispositivo recopila datos sobre la velocidad, latencia y confiabilidad de Internet sin interferir con su servicio. Estos datos son anónimos y no contienen ninguna información sobre su uso personal de Internet.
 
 ## ¿Por qué adquirir un dispositivo?
 
-- Contribuir a la investigación: al alojar un dispositivo, contribuirá directamente a la investigación para mejorar el rendimiento de Internet en diferentes áreas.
-- Comprenda mejor su conexión: el dispositivo lo ayudará a comprender la velocidad y confiabilidad de su conexión a Internet, brindándole información valiosa.
-- Ayude a mejorar la conectividad a Internet: su participación ayudará a identificar cuellos de botella y problemas en la red, lo que conducirá a mejoras en la conectividad a Internet para todos.
+- **Ayuda a mejorar la conectividad a Internet**: al alojar un dispositivo, contribuirás directamente a los esfuerzos de los gobiernos locales, estatales y federales para mejorar el rendimiento de Internet para todos. Su participación también ayudará a identificar cuellos de botella en la red y otros problemas que hacen que la vida en línea sea una molestia.
+- **Comprende mejor tu conexión**: el dispositivo puede ayudarte a comprender tu servicio de Internet, brindándote información valiosa. Con un dispositivo, tienes acceso a un panel privado donde puedes ver tu desempeño en tiempo real.
+
+<img src="../assets/img/Screenshot 2023-09-29 at 12.08.58 PM.png" width="70%" height="250px" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Detalles de alojamiento del dispositivo
 
