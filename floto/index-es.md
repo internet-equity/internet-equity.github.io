@@ -1,8 +1,8 @@
 <img src='https://internetequity.uchicago.edu/wp-content/uploads/2022/05/iStock-1254825733.jpg' height='400px' width='100%'>
 
-[Read in English](https://internetequity.org/floto/)
-
 # Acerca del proyecto FLOTO
+
+[Read in English](https://internetequity.org/floto/)
 
 Bienvenido al proyecto FLOTO, una ambiciosa iniciativa destinada a promover la investigación de banda ancha mediante la recopilación de datos a gran escala del mundo real.
 

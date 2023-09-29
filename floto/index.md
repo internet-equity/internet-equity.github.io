@@ -1,8 +1,8 @@
 <img src='https://internetequity.uchicago.edu/wp-content/uploads/2022/05/iStock-1254825733.jpg' height='400px' width='100%'>
 
-[Lea en español](https://internetequity.org/floto/index-es.html)
-
 # About the FLOTO Project
+
+[Lea en español](https://internetequity.org/floto/index-es.html)
 
 Welcome to the FLOTO project, an ambitious initiative aimed at advancing broadband research through large-scale, real-world data collection.
 

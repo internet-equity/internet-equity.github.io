@@ -1,10 +1,10 @@
 <img src='https://internetequity.uchicago.edu/wp-content/uploads/2022/05/iStock-1372368387-1440x580.jpg' height='400px' width='100%'>
 
-[Read in English](https://internetequity.org/floto/faqs.html)
-
 > Descargue nuestra [Hoja de información de participación](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) para obtener una breve descripción general de FLOTO y lo que significa la participación para usted.
 
 # **Preguntas frecuentes - Participantes de FLOTO**
+
+[Read in English](https://internetequity.org/floto/faqs.html)
 
 **1. Qué es FLOTO?**
 FLOTO es un proyecto de investigación que tiene como objetivo medir y comprender el rendimiento de Internet en diferentes lugares, como hogares, bibliotecas, escuelas y oficinas gubernamentales. El proyecto utiliza pequeñas computadoras llamadas dispositivos Raspberry Pi para recopilar datos sobre el rendimiento de la red.

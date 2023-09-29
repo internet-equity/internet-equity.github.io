@@ -4,9 +4,9 @@
 
 [Home](https://internetequity.org/floto/)
 
-[Read in English](https://internetequity.org/floto/participate.html)
-
 # Buscando voluntarios de ciencia ciudadana para ayudar a medir Internet
+
+[Read in English](https://internetequity.org/floto/participate.html)
 
 Reducir la brecha digital: un dato a la vez.
 

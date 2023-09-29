@@ -4,9 +4,9 @@
 
 [Home](https://internetequity.org/floto/)
 
-[Lea en español](https://internetequity.org/floto/participate-es.html)
-
 # Seeking Citizen Science Volunteers to Help Measure the Internet
+
+[Lea en español](https://internetequity.org/floto/participate-es.html)
 
 Bridging the Digital Divide: One Data Point at a Time.
 
