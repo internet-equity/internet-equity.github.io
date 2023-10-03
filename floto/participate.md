@@ -38,7 +38,7 @@ Thank you for your interest in hosting a measuring device! Please submit the for
 
 To apply for a device, fill out our short eligibility survey. This survey will help us understand your internet connectivity and whether your location is suitable for hosting the device. Please review our [Participation Info Sheet](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) before signing up.
 
-<iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" allowfullscreen="true"></iframe>
 
 
 **After completing the eligibility survey, our team will review your application. If you are selected, we will reach out to provide you with the necessary equipment and support for hosting the device.**
