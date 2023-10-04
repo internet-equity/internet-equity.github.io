@@ -21,7 +21,7 @@ El dispositivo (en la foto de arriba) es una herramienta especializada diseñada
 ## ¿Por qué adquirir un dispositivo?
 
 - **Ayuda a mejorar la conectividad a Internet**: al alojar un dispositivo, contribuirás directamente a los esfuerzos de los gobiernos locales, estatales y federales para mejorar el rendimiento de Internet para todos. Su participación también ayudará a identificar cuellos de botella en la red y otros problemas que hacen que la vida en línea sea una molestia.
-- **Comprende mejor tu conexión**: el dispositivo puede ayudarte a comprender tu servicio de Internet, brindándote información valiosa. Con un dispositivo, tienes acceso a un panel privado donde puedes ver tu desempeño en tiempo real.
+- **Comprende mejor su conexión**: el dispositivo puede ayudarse a comprender su servicio de Internet, brindándose información valiosa. Con un dispositivo, tiene acceso a un panel privado donde puede ver su desempeño en tiempo real.
 
 <img src="../assets/img/Screenshot 2023-09-29 at 12.08.58 PM.png" width="70%" height="250px" style="display: block; margin-left: auto; margin-right: auto;">
 
@@ -45,7 +45,7 @@ Para solicitar un dispositivo, complete nuestra breve encuesta de elegibilidad. 
 
 Si tiene alguna pregunta o más información, no dude en comunicarse con nuestro equipo en [broadband-equity@lists.uchicago.edu](mailto:broadband-equity@lists.uchicago.edu).
 
-¡Gracias por apoyar el proyecto FLOTO y contribuir a la mejora de la conectividad a Internet en tu zona!
+¡Gracias por apoyar el proyecto FLOTO y contribuir a la mejora de la conectividad a Internet en su zona!
 
 ---
 Nota: Esta página está destinada únicamente a fines informativos. El alojamiento de dispositivos está sujeto a elegibilidad y disponibilidad.

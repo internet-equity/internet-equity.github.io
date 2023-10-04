@@ -31,7 +31,7 @@ La seguridad de nuestros dispositivos es monitoreada y administrada continuament
 Sí, la participación en FLOTO es totalmente voluntaria. Si decide participar, podrá retirarse en cualquier momento sin ninguna consecuencia ni impacto en su relación con el equipo de investigación.
 
 **9. ¿Puedo acceder a los datos recopilados desde mi dispositivo?**
-Sí, tendrás acceso a un panel en línea que muestra tus velocidades de Internet, tiempos de transferencia de datos y estado de conexión. Sin embargo, tenga en cuenta que los datos serán anónimos y la información personal no se divulgará en ningún informe o publicación.
+Sí, tendrá acceso a un panel en línea que muestra sus velocidades de Internet, tiempos de transferencia de datos y estado de conexión. Sin embargo, tenga en cuenta que los datos serán anónimos y la información personal no se divulgará en ningún informe o publicación.
 
 **10. ¿Cómo empiezo como participante?**
 Para comenzar, complete nuestra [encuesta en línea](https://internetequity.org/floto/participate-es.html) para determinar su elegibilidad. Si es elegible, nos comunicaremos con usted para brindarle más instrucciones sobre cómo recibir y configurar el dispositivo Raspberry Pi.
