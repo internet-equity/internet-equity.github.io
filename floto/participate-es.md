@@ -38,7 +38,7 @@ El dispositivo (en la foto de arriba) es una herramienta especializada diseñada
 
 Para solicitar un dispositivo, complete nuestra breve encuesta de elegibilidad. Esta encuesta nos ayudará a comprender su conectividad a Internet y si su ubicación es adecuada para alojar el dispositivo. Revise nuestra [Hoja de información de participación](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) antes de registrarse.
 
-<iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" allowfullscreen="true"></iframe>
 
 
 **Después de completar la encuesta de elegibilidad, nuestro equipo revisará su solicitud. Si es seleccionado, nos comunicaremos con usted para brindarle el equipo y el soporte necesarios para alojar el dispositivo.**
