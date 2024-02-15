@@ -4,50 +4,43 @@
 
 [Home](https://internetequity.org/floto/)
 
-# Buscando voluntarios de ciencia ciudadana para ayudar a medir Internet
+# Abordando la Brecha Digital: Un Punto de Datos a la Vez.
 
-[Read in English](https://internetequity.org/floto/participate.html)
+La Universidad de Chicago está buscando voluntarios para la ciencia ciudadana en un proyecto de investigación ("FLOTO") dirigido por la Iniciativa de Equidad en Internet y el Laboratorio Nacional Argonne. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) Los participantes recibirán un pequeño probador de velocidad para medir su servicio de Internet junto con una tarjeta de regalo de $50. ¡Regístrese a continuación para recibir un dispositivo de medición! **Consulte nuestra [hoja de información](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) y [preguntas frecuentes](https://internetequity.org/floto/faqs.html) para obtener más detalles sobre la investigación y lo que hace el dispositivo.**
 
-Reducir la brecha digital: un dato a la vez.
+**Ir al [formulario de registro](#sign-up-now) a continuación.**
 
-La Universidad de Chicago está buscando voluntarios de ciencia ciudadana para un proyecto de investigación ("FLOTO") dirigido por Internet Equity Initiative y Argonne National Lab. (Lea más sobre el proyecto [aquí](https://internetequity.org/floto).) Los participantes recibirán un pequeño dispositivo para medir su servicio de Internet junto con una tarjeta de regalo de $50. ¡Regístrese a continuación para recibir un dispositivo de medición! **Consulte nuestra [hoja informativa](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) y [Preguntas frecuentes](https://internetequity.org/floto/faqs.html) para obtener más detalles sobre la investigación y qué hace el dispositivo.**
+## ¿Qué Hace el Probador de Velocidad?
 
-**Pase al [formulario de registro](#¡regístrate-ahora) a continuación.**
+El probador de velocidad (mostrado arriba) mide el rendimiento de Internet a nivel doméstico. Piense en ello como un monitor de salud para su servicio de Internet doméstico. Al conectarse a su servicio existente, el dispositivo recopila datos sobre la velocidad, latencia y confiabilidad de Internet sin interferir con su servicio. Estos datos son anónimos y no contienen información sobre su uso personal de Internet.
 
-## ¿Qué hace el dispositivo?
+## ¿Por Qué Obtener un Probador de Velocidad?
 
-El dispositivo (en la foto de arriba) es una herramienta especializada diseñada para medir el rendimiento de Internet a nivel doméstico. Piense en ello como un monitor de salud para el servicio de Internet de su hogar. Al conectarse a su servicio existente, el dispositivo recopila datos sobre la velocidad, latencia y confiabilidad de Internet sin interferir con su servicio. Estos datos son anónimos y no contienen ninguna información sobre su uso personal de Internet.
+- **Ayudar a Mejorar la Conectividad a Internet**: Al alojar un probador de velocidad, contribuirá directamente a los esfuerzos de gobiernos locales, estatales y federales para mejorar el rendimiento de Internet para todos. Su participación también ayudará a identificar cuellos de botella en la red y otros problemas que hacen que la vida en línea sea una molestia.
+- **Comprender Mejor su Conexión**: El probador de velocidad puede ayudarlo a comprender su servicio de Internet, dándole información valiosa. Con un dispositivo, tiene acceso a un panel privado donde puede ver su rendimiento en tiempo real.
 
-## ¿Por qué adquirir un dispositivo?
+![Dispositivo](../assets/img/Screenshot 2023-09-29 at 12.08.58 PM.png)
 
-- **Ayuda a mejorar la conectividad a Internet**: al alojar un dispositivo, contribuirás directamente a los esfuerzos de los gobiernos locales, estatales y federales para mejorar el rendimiento de Internet para todos. Su participación también ayudará a identificar cuellos de botella en la red y otros problemas que hacen que la vida en línea sea una molestia.
-- **Comprende mejor su conexión**: el dispositivo puede ayudarse a comprender su servicio de Internet, brindándose información valiosa. Con un dispositivo, tiene acceso a un panel privado donde puede ver su desempeño en tiempo real.
+## Detalles de Alojamiento del Dispositivo
 
-<img src="../assets/img/Screenshot 2023-09-29 at 12.08.58 PM.png" width="70%" height="250px" style="display: block; margin-left: auto; margin-right: auto;">
+- **Período Mínimo de Alojamiento**: Solicitamos a los participantes que instalen el probador de velocidad durante un mínimo de 3 meses para recopilar datos significativos.
+- **Compensación**: Como muestra de agradecimiento, los participantes elegibles recibirán una tarjeta de regalo de $50 al completar el período de alojamiento.
+- **Privacidad de Datos**: Tenga la seguridad de que todos los datos recopilados del probador de velocidad están relacionados con su rendimiento de Internet. El probador de velocidad **NO** recopilará datos sobre lo que hace en línea o cómo utiliza Internet.
+- **Publicación y Compartir**: Los datos recopilados se publicarán de manera anónima y se compartirán con nuestros socios de investigación para decisiones de políticas, financiamiento e investigación.
 
-## Detalles de alojamiento del dispositivo
+Gracias por su interés en alojar un probador de velocidad. Por favor, envíe el formulario a continuación para determinar su elegibilidad y solicitar recibir un probador de velocidad.
 
-- **Período mínimo de alojamiento**: solicitamos a los participantes que instalen el dispositivo durante un mínimo de 3 meses para recopilar datos significativos.
-- **Compensación**: como muestra de agradecimiento, los participantes elegibles recibirán una tarjeta de regalo de $50 al completar el período de hospedaje.
-- **Privacidad de datos**: tenga la seguridad de que todos los datos recopilados desde el dispositivo están relacionados con su rendimiento de Internet. El dispositivo **NO** recopilará datos sobre lo que usted hace en línea o cómo utiliza Internet.
-- **Publicación e intercambio**: los datos recopilados se publicarán de forma anónima y se compartirán con nuestros socios de investigación para tomar decisiones sobre políticas, financiación y investigación.
+## ¡Regístrese Ahora!
 
-¡Gracias por su interés en alojar un dispositivo de medición! Envíe el formulario a continuación para determinar su elegibilidad y solicitar recibir un dispositivo.
-
-## ¡Regístrate ahora!
-
-Para solicitar un dispositivo, complete nuestra breve encuesta de elegibilidad. Esta encuesta nos ayudará a comprender su conectividad a Internet y si su ubicación es adecuada para alojar el dispositivo. Revise nuestra [Hoja de información de participación](../assets/pdfs/Hoja%20informativa%20de%20participaci%C3%B3n%20de%20FLOTO.pdf) antes de registrarse.
+Para aplicar, complete nuestra breve encuesta de elegibilidad. Esta encuesta nos ayudará a comprender su conectividad a Internet y si su ubicación es adecuada para alojar un probador de velocidad. Por favor, revise nuestra [Hoja de Información sobre Participación](../assets/pdfs/FLOTO%20Participation%20Info%20Form.pdf) antes de registrarse.
 
 <iframe src="https://uchicago.co1.qualtrics.com/jfe/form/SV_0J4OlcSjtoKtkCa" width="100%" height="600px" allowfullscreen="true"></iframe>
 
+**Después de completar la encuesta de elegibilidad, nuestro equipo revisará su solicitud. Si es seleccionado, nos pondremos en contacto para proporcionarle el equipo necesario y el apoyo para alojar el probador de velocidad.**
 
-**Después de completar la encuesta de elegibilidad, nuestro equipo revisará su solicitud. Si es seleccionado, nos comunicaremos con usted para brindarle el equipo y el soporte necesarios para alojar el dispositivo.**
-
-Si tiene alguna pregunta o más información, no dude en comunicarse con nuestro equipo en [broadband-equity@lists.uchicago.edu](mailto:broadband-equity@lists.uchicago.edu).
-
-¡Gracias por apoyar el proyecto FLOTO y contribuir a la mejora de la conectividad a Internet en su zona!
+Para cualquier pregunta o información adicional, no dude en contactar a nuestro equipo en [broadband-equity@lists.uchicago.edu](mailto:broadband-equity@lists.uchicago.edu).
 
 ---
-Nota: Esta página está destinada únicamente a fines informativos. El alojamiento de dispositivos está sujeto a elegibilidad y disponibilidad.
+Nota: Esta página es solo para fines informativos. La participación está sujeta a elegibilidad y disponibilidad.
 
-[Home](https://internetequity.org/floto/)
+[Inicio](https://internetequity.org/floto/)
